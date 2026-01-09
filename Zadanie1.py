@@ -1,20 +1,20 @@
-#Najpierw utwórz zmienn¹ o nazwie x i przypisz jej wartoœæ 10
+#Najpierw utwÃ³rz zmiennÄ… o nazwie x i przypisz jej wartoÅ›Ä‡ 10
 
 x = 10
 
-#Nastêpnie utwórz drug¹ zmienn¹ y i przypisz jej wartoœæ 55
+#NastÄ™pnie utwÃ³rz drugÄ… zmiennÄ… y i przypisz jej wartoÅ›Ä‡ 55
 
 y = 55
 
-#Utwórz zmienn¹ z i przypisz jej wartoœæ x + y
+#UtwÃ³rz zmiennÄ… z i przypisz jej wartoÅ›Ä‡ x + y
 
 z = x + y
 
-Zast¹p x wartoœci¹ z
+#ZastÄ…p x wartoÅ›ciÄ… z
 
 x = z
 
-#Wydrukuj wartoœæ x za pomoc¹ funkcji Pythona print()
+#Wydrukuj wartoÅ›Ä‡ x za pomocÄ… funkcji Pythona print()
 
 print(x)
 
